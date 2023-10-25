@@ -60,3 +60,18 @@ a:hover {
 .conclusion{
     font-size: small;
 }
+
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+  }
+  
+  nav li {
+    margin-right: 20px;
+    text-align: center; /* Centra el texto dentro de los elementos de la lista */
+  }
+  
